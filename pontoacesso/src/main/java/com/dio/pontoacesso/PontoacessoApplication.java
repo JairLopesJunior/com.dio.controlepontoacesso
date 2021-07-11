@@ -1,13 +1,13 @@
-package controlepontoacesso;
+package com.dio.pontoacesso;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ControlepontoacessoApplication {
+public class PontoacessoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ControlepontoacessoApplication.class, args);
+		SpringApplication.run(PontoacessoApplication.class, args);
 	}
 
 }
